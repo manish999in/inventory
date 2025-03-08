@@ -47,10 +47,7 @@ This is a simple static inventory management system built using PHP. It serves a
 │── transport-list.php
 │── README.md
 ```
-
-## Live Demo
-Check out the project live at: [manish999.in](http://manish999.in/)
-
+ 
 ## Author
 - **Manish**  
   - GitHub: [manish999in](https://github.com/manish999in)
