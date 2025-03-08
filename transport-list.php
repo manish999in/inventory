@@ -9,46 +9,23 @@
 
             <h3 class="add-transport">Add <span style="color:#e99803"> Transport</span></h3>
             <div class="row add-transport-info">
-
                 <div class="col-md-3 mb-2">
-                    
                         <input type="text" class="form-control" id="floatingPassword" placeholder="Transport Name">
-                        
-                  
                 </div>
-
                 <div class="col-md-3 mb-2">
-                    
                         <input type="text" class="form-control" id="floatingPassword"
                             placeholder="Enter Vehicle Number">
-
-                   
-
                 </div>
-
                 <div class="col-md-3 mb-2">
-                  
                         <input type="tel" class="form-control" id="floatingPassword"
                             placeholder="Enter Transport Number">
-                      
-                   
                 </div>
-
-
                 <div class="col-md-3 mb-2">
-                   
                         <input type="text" class="form-control" id="floatingPassword" placeholder="Enter Driver Name">
-                        
-                  
                 </div>
-
-
                 <div class="col-md-3 mb-2">
-                   
                         <input type="number" class="form-control" id="floatingPassword"
                             placeholder="Enter Driver Phone Number">
-                       
-                  
                 </div>
                 <div class="col-md-3 mb-2">
                     <div class="attichment">
